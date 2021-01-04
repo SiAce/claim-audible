@@ -1,0 +1,14 @@
+# cookies
+cookiesfile.py
+
+# test python files
+test.py
+
+# python venv
+/venv/
+
+# vscode settings
+/.vscode/
+
+# python cache
+__pycache__/
